@@ -1,0 +1,28 @@
+{
+ "board": {
+  "candidate_levels": {},
+  "main": null,
+  "alternatives": [],
+  "excluded": [],
+  "unused_clues": [
+   "Ski-lift tower with sheave/wheel assembly on left edge of frame, strung cables running across the field; this is a ski-area slope, not a generic field",
+   "Foreground is a mowed/dry grass slope descending toward a wide river or wetland with braided channels and exposed sand/mud bars, not a lake (no single clean shoreline)",
+   "Thick ground fog advecting over the forest canopy on the right/far bank, low sun glow at horizon, grass cured tan/brown (late-season) -- consistent with a cool-season (fall) sunrise with radiation fog in a river valley",
+   "Background hills are low, rounded, fully forested ridgelines, no jagged high peaks visible -- consistent with New England foothill terrain rather than high alpine terrain",
+   "No EXIF metadata, no OCR text found anywhere in the frame",
+   "Re-examined edge crop: the pole assembly has a cross-arm with two cable runs and a can-shaped object (likely a transformer), which reads more like an ordinary rural distribution utility pole than a confirmed ski-lift tower (no visible sheave/wheel train). A ski lift is plausible but not confirmed; a mowed hilltop pasture/field with a utility line is an equally consistent alternative"
+  ],
+  "downweighted_not_excluded": [],
+  "falsify": {},
+  "level_gaps": []
+ },
+ "excluded": [],
+ "unused_clues": [
+  "Ski-lift tower with sheave/wheel assembly on left edge of frame, strung cables running across the field; this is a ski-area slope, not a generic field",
+  "Foreground is a mowed/dry grass slope descending toward a wide river or wetland with braided channels and exposed sand/mud bars, not a lake (no single clean shoreline)",
+  "Thick ground fog advecting over the forest canopy on the right/far bank, low sun glow at horizon, grass cured tan/brown (late-season) -- consistent with a cool-season (fall) sunrise with radiation fog in a river valley",
+  "Background hills are low, rounded, fully forested ridgelines, no jagged high peaks visible -- consistent with New England foothill terrain rather than high alpine terrain",
+  "No EXIF metadata, no OCR text found anywhere in the frame",
+  "Re-examined edge crop: the pole assembly has a cross-arm with two cable runs and a can-shaped object (likely a transformer), which reads more like an ordinary rural distribution utility pole than a confirmed ski-lift tower (no visible sheave/wheel train). A ski lift is plausible but not confirmed; a mowed hilltop pasture/field with a utility line is an equally consistent alternative"
+ ]
+}

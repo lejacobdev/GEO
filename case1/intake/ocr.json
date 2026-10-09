@@ -1,0 +1,9 @@
+{
+ "image": "/home/user/GEO/case1/photo.jpg",
+ "size": [
+  2576,
+  1224
+ ],
+ "backend": "rapidocr",
+ "items": []
+}

@@ -1,0 +1,28 @@
+{
+ "photo": "/home/user/GEO/case1/photo.jpg",
+ "exif": {
+  "file": "/home/user/GEO/case1/photo.jpg",
+  "size": [
+   2576,
+   1224
+  ]
+ },
+ "ocr": [],
+ "rev": [],
+ "votes": {
+  "city": {},
+  "place": {}
+ },
+ "status": {
+  "exif": "ok",
+  "variants": "ok",
+  "edges": "ok",
+  "ocr": "ok"
+ },
+ "timings": {
+  "exif": 0.7,
+  "variants": 4.7,
+  "edges": 5.0,
+  "ocr": 37.2
+ }
+}

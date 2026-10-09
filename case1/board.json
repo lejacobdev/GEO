@@ -1,0 +1,68 @@
+{
+ "case": "case1",
+ "photo": "photo.jpg",
+ "created": "2026-10-09T18:11:05",
+ "country": null,
+ "candidates": {},
+ "clues": {
+  "K1": {
+   "text": "Ski-lift tower with sheave/wheel assembly on left edge of frame, strung cables running across the field; this is a ski-area slope, not a generic field",
+   "kind": "infra",
+   "status": "observed",
+   "file": "intake/edges/photo_left.jpg",
+   "source": "",
+   "used": false
+  },
+  "K2": {
+   "text": "Foreground is a mowed/dry grass slope descending toward a wide river or wetland with braided channels and exposed sand/mud bars, not a lake (no single clean shoreline)",
+   "kind": "landform",
+   "status": "observed",
+   "file": "photo.jpg",
+   "source": "",
+   "used": false
+  },
+  "K3": {
+   "text": "Thick ground fog advecting over the forest canopy on the right/far bank, low sun glow at horizon, grass cured tan/brown (late-season) -- consistent with a cool-season (fall) sunrise with radiation fog in a river valley",
+   "kind": "weather",
+   "status": "inferred",
+   "file": "photo.jpg",
+   "source": "",
+   "used": false
+  },
+  "K4": {
+   "text": "Background hills are low, rounded, fully forested ridgelines, no jagged high peaks visible -- consistent with New England foothill terrain rather than high alpine terrain",
+   "kind": "terrain",
+   "status": "observed",
+   "file": "intake/edges/photo_right.jpg",
+   "source": "",
+   "used": false
+  },
+  "K5": {
+   "text": "No EXIF metadata, no OCR text found anywhere in the frame",
+   "kind": "metadata",
+   "status": "computed",
+   "file": "intake/intake.md",
+   "source": "",
+   "used": false
+  },
+  "K6": {
+   "text": "Re-examined edge crop: the pole assembly has a cross-arm with two cable runs and a can-shaped object (likely a transformer), which reads more like an ordinary rural distribution utility pole than a confirmed ski-lift tower (no visible sheave/wheel train). A ski lift is plausible but not confirmed; a mowed hilltop pasture/field with a utility line is an equally consistent alternative",
+   "kind": "infra",
+   "status": "inferred",
+   "file": "intake/edges/photo_left.jpg",
+   "source": "",
+   "used": false
+  }
+ },
+ "evidence": [],
+ "falsify": {},
+ "log": [
+  "18:11 clue K1 [infra/observed] Ski-lift tower with sheave/wheel assembly on left edge of frame, strung cables running across the field; this is a ski-area slope, not a generic field",
+  "18:11 clue K2 [landform/observed] Foreground is a mowed/dry grass slope descending toward a wide river or wetland with braided channels and exposed sand/mud bars, not a lake (no single clean shoreline)",
+  "18:11 clue K3 [weather/inferred] Thick ground fog advecting over the forest canopy on the right/far bank, low sun glow at horizon, grass cured tan/brown (late-season) -- consistent with a cool-season (fall) sunrise with radiation fog in a river valley",
+  "18:11 clue K4 [terrain/observed] Background hills are low, rounded, fully forested ridgelines, no jagged high peaks visible -- consistent with New England foothill terrain rather than high alpine terrain",
+  "18:11 clue K5 [metadata/computed] No EXIF metadata, no OCR text found anywhere in the frame",
+  "18:12 clue K6 [infra/inferred] Re-examined edge crop: the pole assembly has a cross-arm with two cable runs and a can-shaped object (likely a transformer), which reads more like an ordinary rural distribution utility pole than a confirmed ski-lift tower (no visible sheave/wheel train). A ski lift is plausible but not confirmed; a mowed hilltop pasture/field with a utility line is an equally consistent alternative"
+ ],
+ "updated": "2026-10-09T18:12:04"
+}
